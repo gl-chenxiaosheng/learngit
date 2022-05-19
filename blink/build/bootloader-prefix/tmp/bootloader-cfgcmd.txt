@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/helpsen/esp/blink/sdkconfig;-DIDF_PATH=/home/helpsen/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=/home/helpsen/.espressif/python_env/idf5.0_py3.8_env/bin/python;-DEXTRA_COMPONENT_DIRS=/home/helpsen/esp/esp-idf/components/bootloader;-DPROJECT_SOURCE_DIR=/home/helpsen/esp/blink;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
